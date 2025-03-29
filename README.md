@@ -1,6 +1,7 @@
+<img align="right" alt="Devops" align="right" width="600" src="https://appinventiv.com/wp-content/uploads/2024/05/hh.gif">
 # 💫 About Me:
 <br>🌱 I’m currently learning Devops <br>💬 Ask me about devops concepts<br>⚡ Fun fact : i'm Trader
-<img align="right" alt="Devops" align="right" width="600" src="https://appinventiv.com/wp-content/uploads/2024/05/hh.gif">
+
 
 
 
